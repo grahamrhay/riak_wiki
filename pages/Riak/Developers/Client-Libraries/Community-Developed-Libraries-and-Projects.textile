@@ -10,6 +10,8 @@ h2. Client Libraries and Frameworks
 *C/C++*
 * [[riak-cpp|https://github.com/ajtack/riak-cpp]] - A C++ Riak client library for use with C++11 compilers
 * [[Riak C Driver|https://github.com/fenek/riak-c-driver]]
+* [[Riack|https://github.com/trifork/riack]] - A simple C client library
+* [[Riack++|https://github.com/TriKaspar/riack_cpp]] - A C++ wrapper around riack
 
 *Clojure*
 * [[knockbox|https://github.com/reiddraper/knockbox]] - An eventual-consistency toolbox for Clojure 
