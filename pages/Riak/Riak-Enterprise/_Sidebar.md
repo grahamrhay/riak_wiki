@@ -12,4 +12,5 @@
 * [[SNMP Support|SNMP Configuration]]
   * [[Configuration|SNMP Configuration]]
   * [[SNMP Counters]]
+* [[JMX Monitoring]]
 * [[Rolling Upgrade to Enterprise]]
